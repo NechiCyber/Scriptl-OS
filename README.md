@@ -34,6 +34,26 @@ include/    - headers
 
 ---
 
+## How to run Scriptl OS
+
+### Requirements
+
+- nasm
+- qemu
+- make
+
+### Build
+
+Make run:
+```
+make run
+```
+
+Make clean:
+```
+make clean
+```
+
 ## Development Roadmap
 
 See roadmap.txt
