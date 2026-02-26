@@ -1,0 +1,110 @@
+Scriptl OS Official Development Roadmap
+Nechi Studio
+
+----------------------------------------
+v0.1 — Genesis
+----------------------------------------
+Goal:
+Initial kernel and boot foundation.
+
+Features:
+- Bootloader
+- Kernel entry point
+- Screen output
+- Basic kernel structure
+
+----------------------------------------
+v0.2 — Input
+----------------------------------------
+Goal:
+Keyboard support.
+
+Features:
+- Keyboard driver
+- Input handling
+
+----------------------------------------
+v0.3 — Command System
+----------------------------------------
+Goal:
+Basic CLI.
+
+Features:
+- Command interpreter
+- Built-in commands
+
+----------------------------------------
+v0.4 — Memory
+----------------------------------------
+Goal:
+Memory management.
+
+Features:
+- Memory manager
+- Heap allocation
+
+----------------------------------------
+v0.5 — File System
+----------------------------------------
+Goal:
+Disk and file support.
+
+Features:
+- Read files
+- Write files
+
+----------------------------------------
+v0.6 — Hardware
+----------------------------------------
+Goal:
+Driver system.
+
+Features:
+- Driver manager
+- Hardware abstraction
+
+----------------------------------------
+v0.7 — Graphics
+----------------------------------------
+Goal:
+Basic GUI.
+
+Features:
+- Graphics mode
+- Simple window system
+
+----------------------------------------
+v0.8 — Kernel Expansion
+----------------------------------------
+Goal:
+Advanced kernel.
+
+Features:
+- Multitasking
+- Scheduler
+
+----------------------------------------
+v0.9 — Optimization
+----------------------------------------
+Goal:
+Stability and performance.
+
+Features:
+- Optimization
+- Bug fixes
+
+----------------------------------------
+v1.0 — Global Release
+----------------------------------------
+Goal:
+Stable operating system.
+
+Features:
+- Full kernel
+- Drivers
+- CLI
+- File system
+- Stable architecture
+
+Status:
+Official Release

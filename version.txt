@@ -1,0 +1,16 @@
+Scriptl OS
+Version: v0.1
+Codename: Genesis
+Status: Development
+
+Component Status:
+- Bootloader: In Progress
+- Kernel: In Progress
+- Drivers: Not implemented
+- CLI: Not implemented
+- Memory Manager: Not implemented
+- File System: Not implemented
+
+Author: Nechi Studio
+License: MIT
+Year: 2026
